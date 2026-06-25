@@ -9522,21 +9522,20 @@
     <facial id="head_talk_neutral.swf" name="Talk neutral" enable="Y" aid="19348"/>
     <facial id="head_no_expression.swf" name="Blank face" enable="Y" aid="19349"/>
   </char>
-  <background id="bg06.swf" name="Squared paper" enable="Y" default="N" is_premium="N" aid="18849" money="0" sharing="0"/>
-  <background id="bg07.swf" name="Crumbled paper" enable="Y" default="N" is_premium="N" aid="18850" money="0" sharing="0"/>
-  <background id="bg08.swf" name="Single lined paper" enable="Y" default="N" is_premium="N" aid="18851" money="0" sharing="0"/>
-  <background id="bg09.swf" name="Squared paper" enable="Y" default="N" is_premium="N" aid="18852" money="0" sharing="0"/>
-  <background id="bg11.swf" name="Brown paper" enable="Y" default="N" is_premium="N" aid="18853" money="0" sharing="0"/>
-  <background id="bg12.swf" name="Vintage style" enable="Y" default="N" is_premium="N" aid="18854" money="0" sharing="0"/>
+  <background id="bg06.swf" name="Squared paper" enable="N" default="N" is_premium="N" aid="18849" money="0" sharing="0"/>
+  <background id="bg07.swf" name="Crumbled paper" enable="N" default="N" is_premium="N" aid="18850" money="0" sharing="0"/>
+  <background id="bg08.swf" name="Single lined paper" enable="N" default="N" is_premium="N" aid="18851" money="0" sharing="0"/>
+  <background id="bg09.swf" name="Squared paper" enable="N" default="N" is_premium="N" aid="18852" money="0" sharing="0"/>
+  <background id="bg11.swf" name="Brown paper" enable="N" default="N" is_premium="N" aid="18853" money="0" sharing="0"/>
+  <background id="bg12.swf" name="Vintage style" enable="N" default="N" is_premium="N" aid="18854" money="0" sharing="0"/>
   <background id="bg15.swf" name="Vintage style" enable="N" default="N" is_premium="N" aid="18857" money="0" sharing="0"/>
-  <background id="bg17.swf" name="Wood" enable="Y" default="N" is_premium="N" aid="18859" money="0" sharing="0"/>
-  <background id="bg15a.swf" name="Vintage style" enable="Y" default="N" is_premium="N" aid="22061" money="0" sharing="0"/>
+  <background id="bg17.swf" name="Wood" enable="N" default="N" is_premium="N" aid="18859" money="0" sharing="0"/>
   <background id="bg13.swf" name="Workspace" enable="N" default="N" is_premium="N" aid="18855" money="0" sharing="0"/>
-  <background id="bg14.swf" name="Sketch book" enable="Y" default="N" is_premium="N" aid="18856" money="0" sharing="0"/>
-  <background id="bg16.swf" name="Clip board" enable="Y" default="N" is_premium="N" aid="18858" money="0" sharing="0"/>
-  <background id="bg18.swf" name="Workspace" enable="Y" default="N" is_premium="N" aid="18860" money="0" sharing="0"/>
-  <background id="bg28.swf" name="Workspace" enable="Y" default="N" is_premium="N" aid="18870" money="0" sharing="0"/>
-  <background id="bg33.swf" name="Workspace" enable="Y" default="Y" is_premium="N" aid="19384" money="0" sharing="0"/>
+  <background id="bg14.swf" name="Sketch book" enable="N" default="N" is_premium="N" aid="18856" money="0" sharing="0"/>
+  <background id="bg16.swf" name="Clip board" enable="N" default="N" is_premium="N" aid="18858" money="0" sharing="0"/>
+  <background id="bg18.swf" name="Workspace" enable="N" default="N" is_premium="N" aid="18860" money="0" sharing="0"/>
+  <background id="bg28.swf" name="Workspace" enable="N" default="N" is_premium="N" aid="18870" money="0" sharing="0"/>
+  <background id="bg33.swf" name="Workspace" enable="N" default="N" is_premium="N" aid="19384" money="0" sharing="0"/>
   <background id="bg29.swf" name="Gradient - Radial" enable="Y" default="N" is_premium="N" aid="18871" money="0" sharing="0"/>
   <background id="bg30.swf" name="Gradient - Radial" enable="Y" default="N" is_premium="N" aid="18872" money="0" sharing="0"/>
   <background id="bg31.swf" name="Gradient - Radial" enable="Y" default="N" is_premium="N" aid="18873" money="0" sharing="0"/>
@@ -9554,72 +9553,72 @@
   <background id="bg35.swf" name="Split" enable="N" default="N" is_premium="N" aid="20256" money="0" sharing="0"/>
   <background id="bg36.swf" name="Split" enable="N" default="N" is_premium="N" aid="20257" money="0" sharing="0"/>
   <background id="bg37.swf" name="Split" enable="N" default="N" is_premium="N" aid="20258" money="0" sharing="0"/>
-  <compositebg id="cbg_06" name="Squared paper" enable="N" default="N" thumb="bg06.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20259">
+  <compositebg id="cbg_06" name="Squared paper" enable="Y" default="N" thumb="bg06.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20259">
   <bg id="cbg_06_BG11" index="0">
     <file>sticklybiz.bg06.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_17" name="Wood" enable="N" default="N" thumb="bg17.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20260">
+  <compositebg id="cbg_17" name="Wood" enable="Y" default="N" thumb="bg17.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20260">
   <bg id="cbg_17_BG13" index="0">
     <file>sticklybiz.bg17.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_15" name="Vintage style" enable="N" default="N" thumb="bg15a.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20261">
+  <compositebg id="cbg_15" name="Vintage style" enable="Y" default="N" thumb="bg15.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20261">
   <bg id="cbg_15_BG14" index="0">
-    <file>sticklybiz.bg15a.swf</file>
+    <file>sticklybiz.bg15.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_12" name="Vintage style" enable="N" default="N" thumb="bg12.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20262">
+  <compositebg id="cbg_12" name="Vintage style" enable="Y" default="N" thumb="bg12.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20262">
   <bg id="cbg_12_BG15" index="0">
     <file>sticklybiz.bg12.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_11" name="Brown paper" enable="N" default="N" thumb="bg11.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20263">
+  <compositebg id="cbg_11" name="Brown paper" enable="Y" default="N" thumb="bg11.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20263">
   <bg id="cbg_11_BG16" index="0">
     <file>sticklybiz.bg11.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_09" name="Squared paper" enable="N" default="N" thumb="bg09.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20264">
+  <compositebg id="cbg_09" name="Squared paper" enable="Y" default="N" thumb="bg09.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20264">
   <bg id="cbg_09_BG17" index="0">
     <file>sticklybiz.bg09.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_08" name="Single lined paper" enable="N" default="N" thumb="bg08.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20265">
+  <compositebg id="cbg_08" name="Single lined paper" enable="Y" default="N" thumb="bg08.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20265">
   <bg id="cbg_08_BG18" index="0">
     <file>sticklybiz.bg08.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_07" name="Crumbled paper" enable="N" default="N" thumb="bg07.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20266">
+  <compositebg id="cbg_07" name="Crumbled paper" enable="Y" default="N" thumb="bg07.jpg" display_order="10" is_premium="N" money="0" sharing="0" aid="20266">
   <bg id="cbg_07_BG19" index="0">
     <file>sticklybiz.bg07.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_33" name="Workspace" enable="N" default="N" thumb="bg33.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20267">
+  <compositebg id="cbg_33" name="Workspace" enable="Y" default="Y" thumb="bg33.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20267">
   <bg id="cbg_33_BG20" index="0">
     <file>sticklybiz.bg33.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_28" name="Workspace" enable="N" default="N" thumb="bg28.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20268">
+  <compositebg id="cbg_28" name="Workspace" enable="Y" default="N" thumb="bg28.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20268">
   <bg id="cbg_28_BG21" index="0">
     <file>sticklybiz.bg28.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_18" name="Workspace" enable="N" default="N" thumb="bg18.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20269">
+  <compositebg id="cbg_18" name="Workspace" enable="Y" default="N" thumb="bg18.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20269">
   <bg id="cbg_18_BG22" index="0">
     <file>sticklybiz.bg18.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_16" name="Clip board" enable="N" default="N" thumb="bg16.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20270">
+  <compositebg id="cbg_16" name="Clip board" enable="Y" default="N" thumb="bg16.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20270">
   <bg id="cbg_16_BG23" index="0">
     <file>sticklybiz.bg16.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_14" name="Sketch book" enable="N" default="N" thumb="bg14.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20271">
+  <compositebg id="cbg_14" name="Sketch book" enable="Y" default="N" thumb="bg14.jpg" display_order="20" is_premium="N" money="0" sharing="0" aid="20271">
   <bg id="cbg_14_BG24" index="0">
     <file>sticklybiz.bg14.swf</file>
   </bg>
 </compositebg>
-  <compositebg id="cbg_603" name="Split bg" enable="N" default="N" thumb="st_603.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20272">
+  <compositebg id="cbg_603" name="Split bg" enable="Y" default="N" thumb="st_603.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20272">
   <bg id="cbg_603_BG3" index="0">
     <file>sticklybiz.bg34.swf</file>
   </bg>
@@ -9633,7 +9632,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_606" name="Split bg" enable="N" default="N" thumb="st_606.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20273">
+  <compositebg id="cbg_606" name="Split bg" enable="Y" default="N" thumb="st_606.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20273">
   <bg id="cbg_606_BG3" index="0">
     <file>sticklybiz.bg34.swf</file>
   </bg>
@@ -9647,7 +9646,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_604" name="Split bg" enable="N" default="N" thumb="st_604.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20274">
+  <compositebg id="cbg_604" name="Split bg" enable="Y" default="N" thumb="st_604.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20274">
   <bg id="cbg_604_BG7" index="0">
     <file>sticklybiz.bg35.swf</file>
   </bg>
@@ -9661,7 +9660,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_605" name="Split bg" enable="N" default="N" thumb="st_605.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20275">
+  <compositebg id="cbg_605" name="Split bg" enable="Y" default="N" thumb="st_605.jpg" display_order="30" is_premium="N" money="0" sharing="0" aid="20275">
   <bg id="cbg_605_BG7" index="0">
     <file>sticklybiz.bg35.swf</file>
   </bg>

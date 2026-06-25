@@ -152,9 +152,6 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <prop id="vending_drink.swf" name="Drinks vending machine" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10797" money="0" sharing="0"/>
-  <prop id="bench01.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10798" money="0" sharing="0"/>
-  <prop id="street_lamp.swf" name="Street lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10799" money="0" sharing="0"/>
   <prop id="backdrop.swf" name="City backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10690" money="0" sharing="0"/>
   <prop id="window_display.swf" name="Window" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10691" money="0" sharing="0"/>
   <prop id="msp_door01" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_door01_door01_front_close.swf" enable="N" is_premium="N" aid="10692" money="0" sharing="0">
@@ -182,6 +179,9 @@
     <state id="msp_old_tv_old_tv_side_back.swf" name="side back" enable="Y"/>
   </prop>
   <prop id="carpet.swf" name="Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10711" money="0" sharing="0"/>
+  <prop id="vending_drink.swf" name="Drinks vending machine" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10797" money="0" sharing="0"/>
+  <prop id="bench01.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10798" money="0" sharing="0"/>
+  <prop id="street_lamp.swf" name="Street lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10799" money="0" sharing="0"/>
   <prop id="msp_vending_drink" name="Vending machine" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_vending_drink_vending_drink.swf" enable="N" is_premium="Y" aid="12172" money="0" sharing="0">
     <state id="msp_vending_drink_vending_drink.swf" name="front" enable="Y" default="Y"/>
     <state id="msp_vending_drink_ncc_vending_drink_side.swf" name="side" enable="Y"/>
